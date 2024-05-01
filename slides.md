@@ -26,3 +26,29 @@ src: ./parts/4_base-examples.md
 ---
 src: ./parts/5_general.md
 ---
+
+---
+src: ./parts/6_example1.md
+---
+
+---
+src: ./parts/7_example1_2.md
+---
+
+---
+src: ./parts/8_work_example.md
+---
+
+---
+layout: section
+src: ./parts/9_v-model.md
+---
+
+---
+src: ./parts/10_v-model_example.md
+---
+
+---
+layout: section
+src: ./parts/11_separately.md
+---

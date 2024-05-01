@@ -6,5 +6,5 @@ const msg = ref('Привет всем!');
 
 <template>
   <h1>{{ msg }}</h1>
-  <input :value="msg" @input="(e) => (msg = (e.target as HTMLInputElement).value)" />
+  <input :value="msg" @input="(e: Event) => (msg = (e.target as HTMLInputElement).value)" />
 </template>
