@@ -1,21 +1,28 @@
 ---
 theme: vuetiful
 clicks: 1
-altCover: false
+cover: alt
 mdc: true
+colorSchema: light
 growSeed: 4
 highlighter: shiki
+layout: cover
+src: ./parts/1_intro.md
 ---
 
-# Мощь двустороннего связывания во Vue.js
-
-The RTU MIREA Conference (May 2024)
-
+---
+src: ./parts/2_about.md
 ---
 
-# Обо мне
-
-<AboutMe />
-
+---
+layout: section
+src: ./parts/3_talk.md
 ---
 
+---
+src: ./parts/4_base-examples.md
+---
+
+---
+src: ./parts/5_general.md
+---
