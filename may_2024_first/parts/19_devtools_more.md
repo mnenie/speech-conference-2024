@@ -1,0 +1,1 @@
+<img class="w-[100%]" src="/devtools_vue_1_1.png" />

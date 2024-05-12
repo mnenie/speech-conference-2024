@@ -1,0 +1,1 @@
+<img src="/inside.png" class="w-full" />
