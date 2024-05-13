@@ -1,6 +1,6 @@
 # Chrome Devtools Performance
 
-<h3 v-mark.orange class="w-[360px]">Вычисления производились ~ 18s</h3>
+<h3 v-mark.orange class="w-[380px]">Вычисления производились ~ 18s</h3>
 
 <v-clicks>
 <div class="flex mt-20 gap-10">

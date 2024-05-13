@@ -9,11 +9,11 @@
   <component :is="activeComponent" />
 </KeepAlive>
 ```
-<v-clicks>
+<div class="pt-16">
 
-<h4 class="pt-16"> Props</h4>
+#### Props
 
-```ts{*|3|4|5}
+```ts
 type MatchPattern = string | RegExp | (string | RegExp)[];
 export interface KeepAliveProps {
     include?: MatchPattern;
@@ -22,6 +22,6 @@ export interface KeepAliveProps {
 }
 ```
 
-</v-clicks>
+</div>
 
 </v-clicks>
