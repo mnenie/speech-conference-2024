@@ -1,10 +1,8 @@
 ---
 theme: vuetiful
-clicks: 1
 cover: alt
-mdc: true
+clicks: 1
 colorSchema: light
-growSeed: 4
 highlighter: shiki
 layout: cover
 src: ./parts/1_intro.md
