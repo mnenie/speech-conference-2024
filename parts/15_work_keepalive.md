@@ -1,7 +1,5 @@
 # Работа с KeepAlive
 
-<v-clicks>
-
 ```vue{*|5}
 // app.vue
 
@@ -14,10 +12,9 @@
 </template>
 ```
 
-если Auth.vue на 2 роута => (/login, /registration)
-
 ```vue{*|5}
 // Auth.vue
+// если Auth.vue на 2 роута => (/login, /registration)
 
 <template>
   <KeepAlive>
@@ -25,5 +22,3 @@
   </KeepAlive>
 </template>
 ```
-
-</v-clicks>
