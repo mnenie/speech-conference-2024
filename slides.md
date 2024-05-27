@@ -19,12 +19,17 @@ layout: section
 src: ./parts/3_talk.md
 ---
 
+
 ---
 src: ./parts/4_problems.md
 ---
 
 ---
 src: ./parts/5_examples.md
+---
+
+---
+src: ./parts/5.1_analysis_users.md
 ---
 
 ---
@@ -71,11 +76,7 @@ src: ./parts/15_work_keepalive.md
 ---
 
 ---
-src: ./parts/26_work_in_script.md
----
-
----
-src: ./parts/16_my_form.md
+src: ./parts/15.1_work_in_script.md
 ---
 
 ---
@@ -84,19 +85,24 @@ src: ./parts/17_performance.md
 ---
 
 ---
-src: ./parts/18_vue_devtools.md
+clicks: 1
+src: ./parts/17.1_tools.md
 ---
 
 ---
-src: ./parts/19_devtools_more.md
+src: ./parts/18_keepalive_none_active.md
 ---
 
 ---
-src: ./parts/20_keepalive_none_active.md
+src: ./parts/19_none_active_more.md
 ---
 
 ---
-src: ./parts/21_none_active_more.md
+src: ./parts/20_vue_devtools.md
+---
+
+---
+src: ./parts/21_devtools_more.md
 ---
 
 ---

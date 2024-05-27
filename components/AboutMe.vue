@@ -1,7 +1,8 @@
 <template>
   <div class="flex items-start w-full justify-beetwen gap-8">
     <ul>
-      <li>👨‍💻 Vue/Nuxt frontend разработчик.</li>
+      <v-clicks>
+        <li>👨‍💻 Vue/Nuxt frontend разработчик.</li>
       <li>Оффициальный член <span style="font-weight: 700">@vuejs</span> 💚 комьюнити</li>
       <li>
         Разработал широкий спектр проектов, включая различные сервисы в том числе сервисы с ИИ, стартап, интернет-магазины и многое другое.
@@ -11,6 +12,7 @@
         Участвовал в хакатонах: VTB Open API 2023, Lct2023, TulaHack2.0, MireaIPTIP Hackathon 2x, GagarinHack и
         других
       </li>
+      </v-clicks>
     </ul>
 
     <img src="https://avatars.githubusercontent.com/u/121057011?s=400&u=8133108efb3de86b2cd0e674da447e6d491bbdda&v=4" class="rounded-full w-56" />
